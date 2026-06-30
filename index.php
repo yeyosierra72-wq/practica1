@@ -13,9 +13,6 @@
     <h1>Bienvenido</h1>
         
     <p>Sistema de gestio de autos</p>
-    <p>Sistema de gestio de autos</p>
-    <p>Sistema de gestio de autos</p>
-    <p>Sistema de gestio de autos</p>
     
     </div>
     
