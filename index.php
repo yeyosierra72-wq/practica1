@@ -13,7 +13,7 @@
     <h1>Bienvenido</h1>
         
     <p>Sistema de gestio de autos</p>
-    
+    <b>Texto en negro </b>
     </div>
     
 </body>
